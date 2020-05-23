@@ -12,7 +12,7 @@
   }
 
   &:active, &.active {
-    color: #1a73e8;
+    color: $color;
   }
 
   &:hover {
@@ -20,6 +20,7 @@
     cursor: pointer;
   }
 }
+
 
 @mixin clear-list() {
   list-style: none;
