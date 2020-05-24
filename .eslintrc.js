@@ -18,6 +18,7 @@ module.exports = {
     'rules': {
         'semi': "off",
         'require-jsdoc': "off",
-        'comma-dangle': "off"
+        'comma-dangle': "off",
+        'arrow-parens': "off"
     },
 };
